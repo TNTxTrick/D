@@ -571,7 +571,7 @@ cooldown = 0
 maxtime = 120000
 maxconc = 1
 def loginv2():
-    key = "tntxtrick"
+    key = "1"
     enterkey = input("Enter Key : ")
     if enterkey != key:
        print("[!] Telegram Channel : https://t.me/+UTE4B-tDP945ZDU1")
